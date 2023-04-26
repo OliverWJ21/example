@@ -1,0 +1,4 @@
+work_1 = 20
+work_2 = 30
+def this_time(work_1,work_2):
+    end_cal= work_1 + work_2 
